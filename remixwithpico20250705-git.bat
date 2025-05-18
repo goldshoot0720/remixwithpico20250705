@@ -2,9 +2,9 @@ git init
 
 git add .
 
-git commit -m "myv2remix07052025 MyNavBar"
+git commit -m "remixwithpico20250705 init"
 
-git remote add origin https://github.com/goldshoot0720/myv2remix07052025.git
+git remote add origin https://github.com/goldshoot0720/remixwithpico20250705.git
 
 git checkout -b master
 
