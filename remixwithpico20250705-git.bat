@@ -2,7 +2,7 @@ git init
 
 git add .
 
-git commit -m "remixwithpico20250705 demo"
+git commit -m "remixwithpico20250705 udemy"
 
 git remote add origin https://github.com/goldshoot0720/remixwithpico20250705.git
 
