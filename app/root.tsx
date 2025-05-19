@@ -57,6 +57,9 @@ export default function App() {
             <Link to="/">Home</Link>
           </li>
           <li>
+            <Link to="/video">Video</Link>
+          </li>
+          <li>
             <Link to="/bank">Bank</Link>
           </li>
           <li>
