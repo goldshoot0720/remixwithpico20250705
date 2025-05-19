@@ -48,6 +48,7 @@ export default function VideoyPage() {
             <video width="320" height="240" controls>
               <source src={video.url} type="video/mp4" />
               <source src={video.url} type="video/webm" />
+              <source src={video.url} type="video/ogg" />
               Your browser does not support the video tag.
             </video>
           </li>
